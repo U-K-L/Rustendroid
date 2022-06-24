@@ -1,0 +1,1 @@
+C:\ProjectsSpeed\Crabtendroid\Rustendroid\emulator\target\debug\emulator.exe: C:\ProjectsSpeed\Crabtendroid\Rustendroid\emulator\src\cpu.rs C:\ProjectsSpeed\Crabtendroid\Rustendroid\emulator\src\flags6502.rs C:\ProjectsSpeed\Crabtendroid\Rustendroid\emulator\src\main.rs
